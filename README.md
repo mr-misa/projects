@@ -1,10 +1,7 @@
-# The Projects Repository! 
-
-I am always looking for new challenges to keep my skills sharp. Depending on the problem at hand will depend the technique and programming language that I approach the problem with.
-
-## IdleFarmerRPG 🚜🌽
+# IdleFarmerRPG 🚜🌽
 Link: [IdleFarmerRPG](https://github.com/mr-misa/IdleFarmerRPG)
 
 This project is a text based role playing game written in python. The game is centered around managing a farm. I started working on this project around July of 2024 and I have slowly added features and functionality as well as removed items I was not happy with. But I have finally released version 0.1.0. This version is a one that I am finally happy with because it setup the foundational structure of the game, which will make for adding new features and functionality much easier in the future. 
-### What I Learned
+
+## What I Learned
 This project allowed me to sharpen my Python skills. This game is all about making decisions which reinforced my skills in items like if statements. In order to get the menu navigation to work properly I had to make sure I was setting up my loops correctly. Displaying the field data requires for loops as well. One of the items that I am really proud of is the save game feature, your progress is saved in a JSON file that way you can pick up where you left off when you closed the game.This taught me to properly working with files and how to process JSON within Python. Lastly, I added a level of difficulty by forcing myself to only using the Python standard library, meaning no external packages where used. This is especially prevelant in two places. One, the field data table was created using print statment but I could have just as easily used PrettyTable but I did not. Second, when the game prompt the user some information and then pauses waiting for them to push any key to continue that functionality could have been done in like 2 or 3 lines of code with an external package, but I did not use it. Instead I did research online about a cross platform solution that only uses the standard library. This hole project has taught my so much and reinforced so many skills as well. The project is no where near done, still more learning to do!
