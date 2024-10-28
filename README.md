@@ -1,5 +1,5 @@
 # IdleFarmerRPG 🚜🌽
-Link: [IdleFarmerRPG](https://github.com/mr-misa/IdleFarmerRPG)
+[Click Here To View All The Details About: IdleFarmerRPG](https://github.com/mr-misa/IdleFarmerRPG)
 
 This project is a text based role playing game written in python. The game is centered around managing a farm. I started working on this project around July of 2024 and I have slowly added features and functionality as well as removed items I was not happy with. But I have finally released version 0.1.0. This version is a one that I am finally happy with because it setup the foundational structure of the game, which will make for adding new features and functionality much easier in the future. 
 
